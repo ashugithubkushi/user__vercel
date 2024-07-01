@@ -1,0 +1,23 @@
+// https://www.youtube.com/watch?v=-yoyIiuJQBU
+// https://www.youtube.com/watch?v=QyYMvdFwBKA
+
+// <Router>
+// <div className="d-flex app">
+//   {/* Sidebar and other components */}
+//   <div className='col'>
+//     <div className='app'>
+//       {/* Navbar is rendered outside of the Routes */}
+//       <Navbar />
+      
+//       {/* Your Routes */}
+//       <Routes>
+//         <Route path="/" element={<AdminLogin />} />
+//         <Route path="/dashboard" element={<Dashboard />} />
+//         <Route path="/adminbookings" element={<AdminBookings />} />
+//         <Route path="/addvehicles" element={<Addvehicles />} />
+//         <Route path="/users" element={<Users />} />
+//       </Routes>
+//     </div>
+//   </div>
+// </div>
+// </Router>
